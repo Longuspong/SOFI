@@ -1,2 +1,3 @@
-# In Phase 0 werden noch keine Pakete benötigt.
-# Phase 1 ergänzt hier u. a. streamlit, python-dotenv und openai.
+streamlit==1.38.0
+python-dotenv==1.0.1
+openai==2.44.0
