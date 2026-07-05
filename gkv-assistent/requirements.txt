@@ -1,0 +1,2 @@
+# In Phase 0 werden noch keine Pakete benötigt.
+# Phase 1 ergänzt hier u. a. streamlit, python-dotenv und openai.
