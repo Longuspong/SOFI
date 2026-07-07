@@ -2,3 +2,4 @@ venv/
 .env
 __pycache__/
 logs/interaktionen.csv
+knowledge_base/chroma_db/
